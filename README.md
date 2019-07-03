@@ -15,3 +15,7 @@ We will be implementing this system using content based filtering system.
 1. Numpy
 2. Pandas
 3. Scikit-learn
+
+# Use of Scikit-learn
+   We will be using CountVectorizer() class inorder to represent texts in terms of vectors.
+   We will be using cosine_similarity() function inorder to find the cosine similarity between the vectors.
